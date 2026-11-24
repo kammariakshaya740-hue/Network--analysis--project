@@ -106,3 +106,4 @@ A single-phase load on a 230 V, 50 Hz supply draws P = 5 kW at 0.7 power factor 
 - Thevenin, Norton and direct analysis all give the same load current (1.333 A), confirming the equivalents are correct.
 - Maximum power transfer happens when the load equals the Thevenin resistance (2.4 Ω); the given 3 Ω load is close to this and so draws nearly the maximum power.
 - A 208 µF capacitor raises the power factor from 0.70 to 0.95 and cuts the line current by about 26%, which reduces line losses and supply loading.
+kammari Akshaya 
